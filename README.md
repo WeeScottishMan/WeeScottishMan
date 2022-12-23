@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeeScottishMan
 - 👀 I’m interested in computers and coding
 - 🌱 I’m currently learning nothing but will be soon
-- 💞️ I'm doing cyber security in collage
+- 💞️ I'm studying cyber security in collage
 - 📫 Reach me via email or discord at WeeScottishMan#7976
 - 🔒 Hoping to work in the cybersecurity field in the future
