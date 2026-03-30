@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @WeeScottishMan
-- 👀 I’m interested in computers and coding
-- 🌱 I’m currently learning to mod Monster Hunter
-- 💞️ I'm studying Cyber Security at the Open University
-- 📫 Reach me via email or discord at WeeScottishMan#7976
-- 🔒 Hoping to work in the cybersecurity field in the future
+- 👋 Hi, I’m @WeeScottishMan.
+- 👀 I’m interested in computers, coding, audio and keyboards.
+- 🌱 I’m currently working on CSS theming with Nerimity.
+- 📫 Reach me via Nermity at WeeScottishMan:3REN
+- 🔒 Hoping to work in the cybersecurity or networking in future
