@@ -1,4 +1,4 @@
-<h1 align="center">Howdy there peepo 👋/h1>
+<h1 align="center">Howdy there peepo 👋 </h1>
 <h3 align="center">I'm a nerd who loves FOSS software and is always trying if not badly to learn new things. Remembering that it's always okay to be yourself. 🏳️‍🌈🦋</h3>
 
 - 💡 I’m currently interested in. **Computers, coding, audio and keyboards.**
